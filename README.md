@@ -1,5 +1,5 @@
 # Introduction
-This repo contains simple ansible files for automating deployment of [OpenConceptLab]<https://github.com/OpenConceptLab/oclapi>. 
+This repo contains simple ansible files for automating deployment of [OpenConceptLab](https://github.com/OpenConceptLab/oclapi). 
 # Files Description
 ## playbook.yml file 
 This file contains three tasks.
